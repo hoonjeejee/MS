@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:m1/page/home.dart';
+import 'package:m1/pages/home.dart';
 
 class m1Router {
   final GoRouter m1Routers = GoRouter(routes: <GoRoute>[
